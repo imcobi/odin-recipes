@@ -1,0 +1,1 @@
+This is a recipe html project, my first ever from the odin project foundations course. Thanks for reading, and hope you have fun. I don't know if the recipes work, they were AI generated along with the ingredients list. Peace, King!
